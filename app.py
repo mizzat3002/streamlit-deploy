@@ -307,12 +307,6 @@ def show_home():
         </div>
         """, unsafe_allow_html=True)
         
-        WE_PATH_b64 = img_to_base64(WE_PATH)
-    st.markdown(f"""
-    <div class="hero2">
-        <img src="data:image/jpeg;base64,{WE_PATH_b64}">
-    </div>
-    """, unsafe_allow_html=True)
     
     st.markdown('<div class="footer-note">© 2026 YourMajor — Muhammad Izzat, Ridhan Firdaus, Nicholas Calvin</div>', unsafe_allow_html=True)
 
