@@ -26,14 +26,14 @@ Menyediakan akses yang mudah bagi *stakeholder* atau pengguna umum untuk berinte
 *   **Aksesibilitas:** Deployment berbasis web yang dapat diakses kapan saja dan di mana saja.
 
 ## 🔗 Link Demo
-*   **Aplikasi Streamlit:** [Link ke Streamlit App/Hugging Face Space lo]
+*   **Aplikasi Streamlit:** [https://app-deploy-final-project.streamlit.app]
 
 ---
 
 ### 🌐 Project Connection
 Proyek ini merupakan bagian dari ekosistem **Final Project**, di mana hasil model dari *Final Project* di-*deploy* menggunakan *framework* Streamlit agar bisa diakses secara publik.
 
-*Lihat Final Project: [Link ke Final Project Repository]*
+*Lihat Final Project: [https://github.com/mizzat3002/Your-Major-Recommendation-Sistem-Rekomendasi-Jurusan-]
 
 ---
-**Developed by:** Muhammad Izzat (HCK-041)
+**Developed by:** Muhammad Izzat
